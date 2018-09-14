@@ -4,5 +4,5 @@
 public class User {
     private String name;
     private String password;
-    1111111
+   private String ceshi;
 }
