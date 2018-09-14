@@ -4,7 +4,7 @@
 public class User {
     private String name;
     private String password;
-   private String 我是一个测试的东西;
+   private String 当前为本地主线;
    public void teee(){
        System.out.println(22222122);
    }
